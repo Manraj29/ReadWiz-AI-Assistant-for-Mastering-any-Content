@@ -18,6 +18,7 @@ We fine-tuned a lightweight Transformer model, **LaMini-Flan-T5**, on the **SAMS
   - Pipeline wrapping for inference
   - Custom input testing for long-text conversations
   - Model packaging and zipping for deployment
+- Google Colab Link: <a href="https://colab.research.google.com/drive/1DwWTtBzLCv4RCWozNtyJT0ly8ktWvjYP#scrollTo=xc8eF7gpbuKx" target="_blank"> Fine tuning </a>
 
 <h2>Features</h2>
 <ul>
