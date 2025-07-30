@@ -42,6 +42,24 @@ Here's an example of how to use ReadWiz:
   <li>Video presentation: <a href="https://drive.google.com/file/d/1zoagQHQTJTbjHZiIWg9U3f7h7DrKMT4L/view?usp=sharing">Link to Video</a></li>
 </ul>
 
+<h2>Outputs</h2>
+Home Page / Text Summarization Module
+<img width="1423" height="1819" alt="51_ReadWiz(AI-Assistant-for-Mastering-Any-Content)_MM docx (1)-1" src="https://github.com/user-attachments/assets/3d5e085c-59d3-459d-9400-187585bc30ea" />
+<br />
+Paraphraser Module
+<img width="1426" height="1758" alt="51_ReadWiz(AI-Assistant-for-Mastering-Any-Content)_MM docx (1)-2" src="https://github.com/user-attachments/assets/55d54f0a-39ea-4bf0-9ee7-3add04587395" />
+<br />
+Chat with PDF Module
+<img width="1390" height="1129" alt="51_ReadWiz(AI-Assistant-for-Mastering-Any-Content)_MM docx (1)-31" src="https://github.com/user-attachments/assets/86e16b31-92ba-4306-a0c0-e8a842401456" />
+<br />
+Image Recognition Module
+<img width="1423" height="616" alt="51_ReadWiz(AI-Assistant-for-Mastering-Any-Content)_MM docx (1)-32" src="https://github.com/user-attachments/assets/426f1ed8-aa73-44cb-8355-af986fc12e7b" />
+<br>
+Youtube Video Summarization Module
+<img width="1392" height="2036" alt="51_ReadWiz(AI-Assistant-for-Mastering-Any-Content)_MM docx (1)-4" src="https://github.com/user-attachments/assets/2aff98f6-b51e-4122-a32d-73bae8176bb4" />
+
+<br>
+
 <h2>Team Memebers</h2>
 <ol>
   <li><a href="https://github.com/Manraj29">Manraj Singh Virdi</a> [Team Leader]</li>
