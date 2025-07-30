@@ -2,6 +2,23 @@
 
 <p>Welcome to ReadWiz, an innovative AI-powered tool for text summarization and paraphrasing. ReadWiz is designed to simplify the process of digesting lengthy textual content, making it easier for users to extract key insights and understand complex information.</p>
 
+## Project Highlights
+
+We fine-tuned a lightweight Transformer model, **LaMini-Flan-T5**, on the **SAMSum dataset** using the Hugging Face ecosystem to improve its ability to summarize chat-style, dialogue-based texts such as WhatsApp or Messenger conversations.
+
+### Overview
+
+- **Model**: LaMini-Flan-T5 (lightweight, optimized for summarization tasks)
+- **Dataset**: SAMSum (dialogue summarization dataset)
+- **Frameworks**: Hugging Face Transformers, Datasets, Trainer API, Streamlit
+- **Tasks Performed**:
+  - Dataset loading and tokenization
+  - Training with Hugging Face `Trainer`
+  - Evaluation and benchmarking
+  - Pipeline wrapping for inference
+  - Custom input testing for long-text conversations
+  - Model packaging and zipping for deployment
+
 <h2>Features</h2>
 <ul>
   <li>Text Summarization: Generate concise summaries of lengthy documents or text passages.</li>
